@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DiveIntoDeepLearning.iml" filepath="$PROJECT_DIR$/.idea/DiveIntoDeepLearning.iml" />
+      <module fileurl="file://D:/ass/.idea/ass.iml" filepath="D:/ass/.idea/ass.iml" />
+      <module fileurl="file://D:/new/.idea/new.iml" filepath="D:/new/.idea/new.iml" />
+    </modules>
+  </component>
+</project>
